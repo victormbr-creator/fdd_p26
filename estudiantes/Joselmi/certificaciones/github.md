@@ -1,6 +1,6 @@
 # Certificación GitHub Concepts
 
-**Estudiante:** Tu Nombre
+**Estudiante:** José Luis Santiago Heredia
 **Fecha:** 2026-01-29
 
 ## Evidencia
