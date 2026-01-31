@@ -5,4 +5,4 @@
 
 ##Evidencia
 
-![Certificado GitHub](evidencia_github.pdf)
+![Certificado GitHub](evidencia_github.png)
